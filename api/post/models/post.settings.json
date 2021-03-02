@@ -33,6 +33,12 @@
       ],
       "plugin": "upload",
       "required": false
+    },
+    "excerpt": {
+      "type": "string"
+    },
+    "readTime": {
+      "type": "integer"
     }
   }
 }
