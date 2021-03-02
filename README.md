@@ -15,9 +15,11 @@ This is the Strapi backend for the Anime blogging application Animeaza. Github R
 1. GET `/posts` : To get all posts
 2. GET `/posts/:id` : To get a post by ID
 
-3. Clone into repo
-4. Run `npm install`
-5. Run `npm run develop`
+## To Run
+
+1. Clone into repo
+2. Run `npm install`
+3. Run `npm run develop`
 
 ## Hosted at
 
