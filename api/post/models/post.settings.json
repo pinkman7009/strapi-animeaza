@@ -35,7 +35,7 @@
       "required": false
     },
     "excerpt": {
-      "type": "string"
+      "type": "text"
     },
     "readTime": {
       "type": "integer"
